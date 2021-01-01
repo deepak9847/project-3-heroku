@@ -25,7 +25,7 @@ SECRET_KEY = '8@bx^8x#@@8nluf3q(&88=fh9k7c7lvx50lcrn#pl$d05d(5*q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['schoolmanagement.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
